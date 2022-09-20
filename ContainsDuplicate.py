@@ -1,3 +1,7 @@
+###
+Find out if a given list contains any duplicates.
+###
+
 class Solution(object):
   def containsDuplicate(self, nums):
     
