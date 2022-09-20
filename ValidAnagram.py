@@ -1,3 +1,7 @@
+###
+Given a two strings s and t, return True if s is an anagram to t.
+###
+
 import collections
 
 class Solution(object):
